@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " D ",
+    "ROR",
+    " R "
+  ],
+  "key": {
+    "D": {
+      "item": "invasion:phase_crystal"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "invasion:nexus_block"
+  }
+}
