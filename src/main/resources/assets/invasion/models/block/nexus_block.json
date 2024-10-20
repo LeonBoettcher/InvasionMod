@@ -1,0 +1,14 @@
+{
+  "parent": "block/cube",
+  "textures": {
+
+    "particle": "invasion:block/nexussideoff",
+
+    "down": "invasion:block/nexustopoff",
+    "up": "invasion:block/nexustopoff",
+    "north": "invasion:block/nexussideoff",
+    "south": "invasion:block/nexussideoff",
+    "west": "invasion:block/nexussideoff",
+    "east": "invasion:block/nexussideoff"
+  }
+}
